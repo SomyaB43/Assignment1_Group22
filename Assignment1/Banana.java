@@ -1,23 +1,22 @@
-public class Apple implements GroceryProduct{
+public class Banana implements GroceryProduct {
 
     private String name;
     private double price;
 
-      public Apple() {
+      public Banana() {
         this.name = "Apple";
     }
 
- 
+
     public String getName() {
         return name;
     }
 
- 
     public double getPrice() {
         return price;
     }
 
-  
+
     public void setPrice(double price) {
         this.price = price;
     }
