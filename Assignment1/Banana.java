@@ -4,7 +4,7 @@ public class Banana implements GroceryProduct {
     private double price;
 
       public Banana() {
-        this.name = "Apple";
+        this.name = "Banana";
     }
 
 
