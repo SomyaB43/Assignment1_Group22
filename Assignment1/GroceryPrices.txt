@@ -1,2 +1,5 @@
-apple,  2.99
+Orange, 1.67
+Apple,  2.99
 Banana, 3.99
+Watermelon, 4.97
+Mango, 2.70
