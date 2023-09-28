@@ -1,4 +1,4 @@
-public interface GroceryProductFactory {
+interface GroceryProductFactory {
 
     GroceryProduct createGroceryProduct();
     
